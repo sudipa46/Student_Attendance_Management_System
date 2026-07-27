@@ -17,7 +17,7 @@ Features:-
 Technologies Used:-
 
 - Python
-- Tkinter
+- Tkinter( GUI )
 - SQLite
 - Visual Studio Code
 - Git & GitHub
